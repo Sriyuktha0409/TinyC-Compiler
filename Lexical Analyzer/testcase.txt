@@ -1,0 +1,12 @@
+int main()
+{
+    int p;
+    int q;
+    int r;
+    p=10;
+    q=40;
+    q=r;
+    print p;
+    print q;
+    print r;
+}
