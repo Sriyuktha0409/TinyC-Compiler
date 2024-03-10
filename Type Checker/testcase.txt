@@ -1,0 +1,9 @@
+int main()
+{
+    int h,y,m,s;
+    m = 1;
+    y = 24;
+    h = 47;
+    s = m+h+y;
+    print s;
+}
