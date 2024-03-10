@@ -1,0 +1,8 @@
+int main()
+{
+    int x,y;
+    x=24;
+    x=y;
+    print x;
+    print y;
+}
